@@ -1,3 +1,9 @@
 
 #include <iostream>
-using namespace;
+using namespace::std;
+
+int main(){
+
+    cout <<"Starting";
+
+}
